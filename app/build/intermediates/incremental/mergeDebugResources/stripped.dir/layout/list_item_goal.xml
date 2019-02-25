@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+                 
+                                
+                                                      
+                 
+                       
+                                           
+           
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:background="@android:color/white"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="4dp"
+                                           android:tag="layout/list_item_goal_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+       <RelativeLayout
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/goal_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/goal_item_image_height"
+            android:scaleType="centerCrop"
+            android:tag="binding_1"                
+            />
+
+        <TextView
+            android:layout_below="@id/goal_item_image"
+            android:id="@+id/goal_balance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_normal"
+            android:layout_marginEnd="@dimen/margin_small"
+            android:layout_marginStart="@dimen/margin_small"
+            android:layout_marginTop="@dimen/margin_small"
+            android:tag="binding_2"                 
+
+            android:textAppearance="?attr/textAppearanceListItem"
+            tools:text="Tomato"/>
+
+
+           <TextView
+               android:layout_above="@id/goal_balance"
+               android:id="@+id/goal_item_title"
+               android:textSize="@dimen/text_large"
+               android:layout_width="match_parent"
+               android:textStyle="bold"
+               android:textColor="@android:color/white"
+               android:layout_height="wrap_content"
+               android:layout_marginBottom="@dimen/margin_normal"
+               android:layout_marginEnd="@dimen/margin_small"
+               android:layout_marginStart="@dimen/margin_small"
+               android:layout_marginTop="@dimen/margin_small"
+               android:tag="binding_3"    
+               android:textAppearance="?attr/textAppearanceListItem"
+               tools:text="Tomato"/>
+       </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+         

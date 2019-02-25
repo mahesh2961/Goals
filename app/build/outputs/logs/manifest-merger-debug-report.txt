@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/8c2e90db75fedab81552d01ccb61ce2e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/cd30a6983f988140fbcdc41e615c6b5d/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha09.aar/9e08ded1a5f141583a9c6991a285c9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha09.aar/983739360e2b431ba359d281210fb17c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.work:work-runtime-ktx:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-ktx-1.0.0-beta01.aar/7a5275bc4832abab7b8945a6994c44e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-materialsearchview-1.4.0.aar/47fe178503fe0e49068c7536d59507da/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.dagger:dagger-android-support:2.16] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.16.aar/b119e98bec112e8f6c3ab997626fa8ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/05b70bca08435d6e59d4545f197cb59e/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha09.aar/98b0e87dd127ea19617aa9d787e10663/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/73a4066cba3ff934de815f01e2b4acb8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/27869906e4b76398fdc43ce70f0ef845/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/061bb8e50c0de38a8a2244fee95c2753/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:17:1-118:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/51e993e923bd5780d0a595952ba17369/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/1443c0a70fc5c157fbeff78a0c9fa2ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/3106838c7b2daba64659e33d59e42005/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/da4937820d7ecd5858cd1f4156268c20/AndroidManifest.xml:15:1-21:12
+MERGED from [com.google.dagger:dagger-android:2.16] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.16.aar/dffff37d957f291f3d8ca894af2ff493/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha09.aar/2d49b4365995617dd1477e0c55eea98b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a49047dc6446460777ea40db9215b1a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/69484ca358272a073dd847b5feba77d6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/cb970a8942dc3a6ef4708d9e137d848c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha09.aar/522e27949a46d21be16112a30fcefacb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha09.aar/b17c3ffc3952a534acc63ecd780403fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a7468645e5723db081d5e2c65ff8bd40/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/21d62d1bc37baf161c4213cdfc607665/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/77327e0a2260970e1431264f8542d69d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6125aea8170137c8e884045ddf533386/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/157f8db914fda4d909bd0421cea61952/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6629d05caa80d14e7d54dc634c24e808/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b458bdfe1977e45e444990449f556310/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d431a711aa9317192c80ab786b36bfef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/659b7904820a73b585bb3205da8a1552/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/e5a6f243d880dc17c6f3543c6faf14c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ac2756925b2701a0b65827084be8a039/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha09.aar/4ed65a8b590e517ee6da9018c3b3d38c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha09.aar/f1ad2d998949530b54124a1cfacbad0b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fcb983f4a5a4a39f855ae88c717ce11d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/11e59809c923cb2e349cdc3699ea6d64/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/7b66bc9979986024e3a2ce9c8665a276/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b860a312d500d37c64a05d88023f228c/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d3f6921f3b3db94def6dab73f45dd371/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/69618f5e962429b2edb63464a7db6410/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ffc68717b07f00201c0bd548578a9d43/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6c7c2ecc5c6166baab2ba7490e05528f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/3ea3c9a8148bf069c2d916ab233862e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/6c2a5295a3ec121e15b3fba56cfe844e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3e68481d0aaa0bba6179b96e5375c685/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/20892c229ff2a7a3eba0bbb64a2731c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/41f9dd4144551e686765af2e3a79b3fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5f18be7445cae56a61c56f514d6941b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/af4f0e1d697731252b4ac99c9d62e599/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0e8d1aecb251e4086a896becb3fd5078/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/da05ee07f1f59194dc7529f38a1a1876/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:3:5-23
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:24:5-79
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-materialsearchview-1.4.0.aar/47fe178503fe0e49068c7536d59507da/AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-materialsearchview-1.4.0.aar/47fe178503fe0e49068c7536d59507da/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/05b70bca08435d6e59d4545f197cb59e/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/05b70bca08435d6e59d4545f197cb59e/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/73a4066cba3ff934de815f01e2b4acb8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/73a4066cba3ff934de815f01e2b4acb8/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:27:5-116:19
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:27:5-116:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/51e993e923bd5780d0a595952ba17369/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/51e993e923bd5780d0a595952ba17369/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/3106838c7b2daba64659e33d59e42005/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/3106838c7b2daba64659e33d59e42005/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fcb983f4a5a4a39f855ae88c717ce11d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fcb983f4a5a4a39f855ae88c717ce11d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b860a312d500d37c64a05d88023f228c/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b860a312d500d37c64a05d88023f228c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/da05ee07f1f59194dc7529f38a1a1876/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/da05ee07f1f59194dc7529f38a1a1876/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fcb983f4a5a4a39f855ae88c717ce11d/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:14:9-32
+activity#in.goals.activities.GoalsActivity
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:24:9-33:20
+	android:screenOrientation
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:25:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:26:13-60
+	android:theme
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:24:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/8c2e90db75fedab81552d01ccb61ce2e/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/8c2e90db75fedab81552d01ccb61ce2e/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/cd30a6983f988140fbcdc41e615c6b5d/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/cd30a6983f988140fbcdc41e615c6b5d/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha09.aar/9e08ded1a5f141583a9c6991a285c9ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha09.aar/9e08ded1a5f141583a9c6991a285c9ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha09.aar/983739360e2b431ba359d281210fb17c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha09.aar/983739360e2b431ba359d281210fb17c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime-ktx:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-ktx-1.0.0-beta01.aar/7a5275bc4832abab7b8945a6994c44e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.work:work-runtime-ktx:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-ktx-1.0.0-beta01.aar/7a5275bc4832abab7b8945a6994c44e0/AndroidManifest.xml:20:5-44
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-materialsearchview-1.4.0.aar/47fe178503fe0e49068c7536d59507da/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-materialsearchview-1.4.0.aar/47fe178503fe0e49068c7536d59507da/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.dagger:dagger-android-support:2.16] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.16.aar/b119e98bec112e8f6c3ab997626fa8ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.16] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.16.aar/b119e98bec112e8f6c3ab997626fa8ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/05b70bca08435d6e59d4545f197cb59e/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/05b70bca08435d6e59d4545f197cb59e/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha09.aar/98b0e87dd127ea19617aa9d787e10663/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha09.aar/98b0e87dd127ea19617aa9d787e10663/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/73a4066cba3ff934de815f01e2b4acb8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/73a4066cba3ff934de815f01e2b4acb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/27869906e4b76398fdc43ce70f0ef845/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/27869906e4b76398fdc43ce70f0ef845/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/061bb8e50c0de38a8a2244fee95c2753/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/061bb8e50c0de38a8a2244fee95c2753/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:21:5-44
+MERGED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/51e993e923bd5780d0a595952ba17369/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/51e993e923bd5780d0a595952ba17369/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/1443c0a70fc5c157fbeff78a0c9fa2ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/1443c0a70fc5c157fbeff78a0c9fa2ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/3106838c7b2daba64659e33d59e42005/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.8.0.aar/3106838c7b2daba64659e33d59e42005/AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/da4937820d7ecd5858cd1f4156268c20/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/da4937820d7ecd5858cd1f4156268c20/AndroidManifest.xml:19:5-43
+MERGED from [com.google.dagger:dagger-android:2.16] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.16.aar/dffff37d957f291f3d8ca894af2ff493/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.16] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.16.aar/dffff37d957f291f3d8ca894af2ff493/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha09.aar/2d49b4365995617dd1477e0c55eea98b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha09.aar/2d49b4365995617dd1477e0c55eea98b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a49047dc6446460777ea40db9215b1a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/a49047dc6446460777ea40db9215b1a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/69484ca358272a073dd847b5feba77d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/69484ca358272a073dd847b5feba77d6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/cb970a8942dc3a6ef4708d9e137d848c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/cb970a8942dc3a6ef4708d9e137d848c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha09.aar/522e27949a46d21be16112a30fcefacb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha09.aar/522e27949a46d21be16112a30fcefacb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha09.aar/b17c3ffc3952a534acc63ecd780403fc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha09.aar/b17c3ffc3952a534acc63ecd780403fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a7468645e5723db081d5e2c65ff8bd40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a7468645e5723db081d5e2c65ff8bd40/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/21d62d1bc37baf161c4213cdfc607665/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/21d62d1bc37baf161c4213cdfc607665/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/77327e0a2260970e1431264f8542d69d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/77327e0a2260970e1431264f8542d69d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6125aea8170137c8e884045ddf533386/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6125aea8170137c8e884045ddf533386/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/157f8db914fda4d909bd0421cea61952/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/157f8db914fda4d909bd0421cea61952/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6629d05caa80d14e7d54dc634c24e808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6629d05caa80d14e7d54dc634c24e808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b458bdfe1977e45e444990449f556310/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/b458bdfe1977e45e444990449f556310/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d431a711aa9317192c80ab786b36bfef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/d431a711aa9317192c80ab786b36bfef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/659b7904820a73b585bb3205da8a1552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/659b7904820a73b585bb3205da8a1552/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/e5a6f243d880dc17c6f3543c6faf14c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/e5a6f243d880dc17c6f3543c6faf14c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ac2756925b2701a0b65827084be8a039/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/ac2756925b2701a0b65827084be8a039/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha09.aar/4ed65a8b590e517ee6da9018c3b3d38c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha09.aar/4ed65a8b590e517ee6da9018c3b3d38c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha09.aar/f1ad2d998949530b54124a1cfacbad0b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha09] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha09.aar/f1ad2d998949530b54124a1cfacbad0b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fcb983f4a5a4a39f855ae88c717ce11d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/fcb983f4a5a4a39f855ae88c717ce11d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/11e59809c923cb2e349cdc3699ea6d64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/11e59809c923cb2e349cdc3699ea6d64/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/7b66bc9979986024e3a2ce9c8665a276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/7b66bc9979986024e3a2ce9c8665a276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b860a312d500d37c64a05d88023f228c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b860a312d500d37c64a05d88023f228c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d3f6921f3b3db94def6dab73f45dd371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/d3f6921f3b3db94def6dab73f45dd371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/69618f5e962429b2edb63464a7db6410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/69618f5e962429b2edb63464a7db6410/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ffc68717b07f00201c0bd548578a9d43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/ffc68717b07f00201c0bd548578a9d43/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6c7c2ecc5c6166baab2ba7490e05528f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6c7c2ecc5c6166baab2ba7490e05528f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/3ea3c9a8148bf069c2d916ab233862e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/3ea3c9a8148bf069c2d916ab233862e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/6c2a5295a3ec121e15b3fba56cfe844e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/6c2a5295a3ec121e15b3fba56cfe844e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3e68481d0aaa0bba6179b96e5375c685/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/3e68481d0aaa0bba6179b96e5375c685/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/20892c229ff2a7a3eba0bbb64a2731c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/20892c229ff2a7a3eba0bbb64a2731c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/41f9dd4144551e686765af2e3a79b3fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/41f9dd4144551e686765af2e3a79b3fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5f18be7445cae56a61c56f514d6941b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/5f18be7445cae56a61c56f514d6941b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/af4f0e1d697731252b4ac99c9d62e599/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/af4f0e1d697731252b4ac99c9d62e599/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0e8d1aecb251e4086a896becb3fd5078/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/0e8d1aecb251e4086a896becb3fd5078/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/da05ee07f1f59194dc7529f38a1a1876/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.8.0.aar/da05ee07f1f59194dc7529f38a1a1876/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:25:22-78
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:28:9-34:35
+	android:authorities
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:30:13-68
+	android:multiprocess
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:33:13-40
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:29:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:36:9-41:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:39:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:40:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:41:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:37:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:42:9-48:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:46:13-36
+	android:permission
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:47:13-69
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:48:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:43:13-84
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:50:9-55:35
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:53:13-35
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:54:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:55:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:51:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:56:9-65:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:59:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:60:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:57:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:61:13-64:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:62:17-87
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:62:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:63:17-90
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:63:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:66:9-75:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:69:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:68:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:67:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:71:13-74:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:72:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:73:17-76
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:73:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:76:9-85:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:79:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:80:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:81:13-84:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:82:17-83
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:82:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:83:17-82
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:83:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:86:9-94:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:89:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:90:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:88:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:87:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:91:13-93:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:92:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:92:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:95:9-105:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:98:13-36
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:99:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:97:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:96:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:100:13-104:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:101:17-79
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:101:25-76
+action#android.intent.action.TIME_SET
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:102:17-73
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:102:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:103:17-81
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:103:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:106:9-115:20
+	android:enabled
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:109:13-72
+	android:exported
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:110:13-37
+	tools:targetApi
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:111:13-32
+	android:directBootAware
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:108:13-44
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:107:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:112:13-114:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:113:17-98
+	android:name
+		ADDED from [android.arch.work:work-runtime:1.0.0-beta01] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/jetified-work-runtime-1.0.0-beta01.aar/9eb5907a2a2644b4a0aab0c65e967049/AndroidManifest.xml:113:25-95
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha03] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/room-runtime-2.1.0-alpha03.aar/69dd47e744dee44aad74e4b035f6e913/AndroidManifest.xml:24:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/maheshbaraskar/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/7e03ea076d992c3275f8a703621dfa77/AndroidManifest.xml:24:13-79

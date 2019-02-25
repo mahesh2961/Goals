@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/maheshbaraskar/Documents/work/Assigments/Goals/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_goal.xml",
+        "source": "/Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/res/layout/list_item_goal.xml"
+    },
+    {
+        "merged": "/Users/maheshbaraskar/Documents/work/Assigments/Goals/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_goals.xml",
+        "source": "/Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/res/layout/activity_goals.xml"
+    },
+    {
+        "merged": "/Users/maheshbaraskar/Documents/work/Assigments/Goals/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_goal_list.xml",
+        "source": "/Users/maheshbaraskar/Documents/work/Assigments/Goals/app/src/main/res/layout/fragment_goal_list.xml"
+    }
+]
