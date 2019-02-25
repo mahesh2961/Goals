@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <import type="android.view.View" />
+
+
+        <variable
+            name="viewModel"
+            type="in.goals.viewmodels.GoalListViewModel" />
+    </data>
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/toolbar_container"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:elevation="4dp"
+            android:layout_width="match_parent"
+            app:title="@string/app_name"
+            android:layout_height="?attr/actionBarSize"
+            app:titleTextColor="@android:color/black"
+            android:background="@android:color/white" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/goal_list"
+        android:visibility="@{viewModel.displayMessage? View.INVISIBLE : View.VISIBLE}"
+        android:layout_below="@id/toolbar_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:paddingBottom="@dimen/margin_normal"
+        android:paddingTop="@dimen/margin_normal"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:context=".activities.GoalsActivity"
+        tools:listitem="@layout/list_item_goal" />
+
+
+
+    <TextView
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:text="@{viewModel.message != null? viewModel.message :`loading...` }"
+        android:textColor="@color/colorAccent"
+        android:visibility="@{viewModel.displayMessage? View.VISIBLE : View.GONE}"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
+
+
+
+</layout>

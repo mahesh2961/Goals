@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Goals</string>
+    <string name="messgae_loading">Loading..</string>
+    <string name="message_network_error">Network Error.Please try again</string>
+    <string name="no_goals_found">No Goal Found!</string>
+    <string name="menu_refresh">Refresh</string>
+
+
+</resources>

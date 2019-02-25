@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/goal_list_fragment">
+
+    <fragment
+        android:id="@+id/goal_list_fragment"
+        android:name="in.goals.fragment.GoalsListFragment"
+        android:label="GOAL_LIST"
+        tools:layout="@layout/fragment_goal_list">
+    </fragment>
+
+
+</navigation>
