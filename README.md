@@ -4,11 +4,11 @@ I have used Room database + Live data combination
 
 Libraries Used
 
-1.Retrofit2
-2.Dagger
-3.Mokito
-4.Rxjava2
-5.Glide
+1.Retrofit2<br />
+2.Dagger<br />
+3.Mokito<br />
+4.Rxjava2<br />
+5.Glide<br />
 
 Architecture reference: https://developer.android.com/jetpack/docs/guide
 
