@@ -10,6 +10,10 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MediatorLiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.launch
 import java.util.concurrent.Executors
 import javax.inject.Inject
 
@@ -26,9 +30,16 @@ class GoalListViewModel @Inject constructor(
 
     var message=ObservableField<String>()
 
+
+
+    private val viewModelJob = Job()
+
+    private val viewModelScope = CoroutineScope(Dispatchers.IO+viewModelJob)
+
+
     init {
          liveGoalList = goalRepository.getGoals()
-        goalList.addSource(liveGoalList, goalList::setValue)
+         goalList.addSource(liveGoalList, goalList::setValue)
          fetchGoalsIfNotAvailable()
     }
 
@@ -41,8 +52,7 @@ class GoalListViewModel @Inject constructor(
     }
 
     private fun fetchGoalsIfNotAvailable() {
-        val executor = Executors.newSingleThreadExecutor()
-        executor.execute {
+        viewModelScope.launch {
             if(!goalRepository.isDataAvailable()) {
                 fetchGoals()
             }
@@ -51,24 +61,23 @@ class GoalListViewModel @Inject constructor(
         }
     }
 
-    public fun refresh() =fetchGoals()
+     fun refresh() =fetchGoals()
 
     private fun setShowMessage(showMessage:Boolean?) {this.displayMessage.set(showMessage)}
 
-    public fun postDisplayMessage(message:String?) {this.message.set(message) }
+     fun postDisplayMessage(message:String?) {this.message.set(message) }
 
 
     override fun sucessReponse(list: List<Goal>) {
-        val executor = Executors.newSingleThreadExecutor()
-        setShowMessage(false)
-        executor.execute {
+        viewModelScope.launch {
+            setShowMessage(false)
             goalRepository.insertData(list)
             if (!list.isNullOrEmpty()) {
-                goalList.postValue(list)
                 postDisplayMessage(null)
             }
             else postDisplayMessage(getStringResouce(R.string.no_goals_found))
         }
+
     }
 
     fun getStringResouce(id :Int)= goalRepository.getStringResouce(id)
@@ -76,6 +85,12 @@ class GoalListViewModel @Inject constructor(
     override fun error(error: Throwable) {
         setShowMessage(true)
         postDisplayMessage(getStringResouce(R.string.message_network_error))
+    }
+
+    override fun onCleared() {
+        super.onCleared()
+        goalRepository.clearSubscription()
+        viewModelJob.cancel()
     }
 }
 

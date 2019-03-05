@@ -26,4 +26,7 @@ class NetworkManager @Inject constructor(var apiHandler: `in`.goals.network.ApiH
 
     }
 
+    fun clear()=compositeDisposable.clear()
+
+
 }

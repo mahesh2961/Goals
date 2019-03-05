@@ -25,4 +25,7 @@ class GoalRepository @Inject constructor(var goalDao : GoalDao, var networkLayer
 
     fun getStringResouce(id :Int)= GoalApp.instance.getString(id)
 
+    fun clearSubscription()=networkLayer.clear()
+
+
 }

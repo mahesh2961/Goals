@@ -53,10 +53,10 @@ class GoalsAdapter : ListAdapter<Goal, GoalsAdapter.ViewHolder>(DiffCallback()) 
 private class DiffCallback : DiffUtil.ItemCallback<Goal>() {
 
     override fun areItemsTheSame(oldItem: Goal, newItem: Goal): Boolean {
-        return oldItem.id == newItem.id
+        return oldItem.equals(newItem)
     }
 
     override fun areContentsTheSame(oldItem: Goal, newItem: Goal): Boolean {
-        return oldItem == newItem
+        return oldItem.equals(newItem)
     }
 }

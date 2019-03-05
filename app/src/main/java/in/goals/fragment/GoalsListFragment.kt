@@ -23,6 +23,7 @@ class GoalsListFragment : BaseFragment()
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         var binding =  FragmentGoalListBinding.inflate(inflater, container, false)
+        binding.setLifecycleOwner(this)
 
         viewModel = ViewModelProviders.of(this, vmFactory).get(GoalListViewModel::class.java)
         binding.viewModel=viewModel
@@ -51,7 +52,7 @@ class GoalsListFragment : BaseFragment()
      * Waits for updates to Model from ViewModel and applies changes accordingly
      */
     private fun subscribeUi(adapter: GoalsAdapter) {
-        viewModel.getGoals().observe(viewLifecycleOwner, Observer { goals ->
+        viewModel.getGoals().observe(this, Observer { goals ->
             adapter.submitList(goals)
         })
     }
