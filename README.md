@@ -1,3 +1,5 @@
+The App displays simple list of images from Rest API.
+
 The App designed is based on Model-View-ViewModel (MVVM)+Data Binding architecture
 
 I have used Room database + Live data combination
